@@ -1,0 +1,9 @@
+{
+  "firebase": "swagup",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
